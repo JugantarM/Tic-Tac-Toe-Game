@@ -1,2 +1,37 @@
-# Tic-Tac-Toe-Game
-Tic Tac Toe is one of the most simple and addictive available out there. This game is developed using HTML5, JavaScript, and CSS for some styling. The developer has made use of Google fonts to make this game more visually appealing. This game is an exact replica of tic tac toe that we play in real life using pen and paper. Here, we basically use mouse clicks to place circles and cross in the layout interface
+## Welcome to GitHub Pages
+
+You can use the [editor on GitHub](https://github.com/JugantarM/Tic-Tac-Toe-Game/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JugantarM/Tic-Tac-Toe-Game/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
